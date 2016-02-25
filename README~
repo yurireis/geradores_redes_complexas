@@ -1,0 +1,4 @@
+Código criado em python em ambiente linux.
+Para a execução são necessárias as bibliotecas igraph, random, math, matplotlib.pylab e itertools.
+
+Basta executar o código e inserir os parâmetros necessários para a geração das redes a medida que são requisitados em linha de código.
