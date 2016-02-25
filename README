@@ -1,4 +1,6 @@
 Código criado em python em ambiente linux.
 Para a execução são necessárias as bibliotecas igraph, random, math, matplotlib.pylab e itertools.
 
+Gera as redes complexas em modo Erdos-Renyi, Watts-Strogatz e Barabasi-Albert, imprimindo a representação do grafo formado, o coeficiente de clustering da rede, os graus máximo, mínimo e médio, e cria uma imagem com o gráfico da distribuição de graus.
+
 Basta executar o código e inserir os parâmetros necessários para a geração das redes a medida que são requisitados.
